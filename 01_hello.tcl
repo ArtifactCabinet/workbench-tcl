@@ -1,3 +1,5 @@
+#!/bin/tclsh
+
 puts nice
 
 set var1 john;

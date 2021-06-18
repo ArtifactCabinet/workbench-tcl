@@ -1,2 +1,0 @@
-language = "tcl"
-run = "tclsh main.tcl"
